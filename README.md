@@ -1,7 +1,7 @@
 # Hello world!
 
 My name is Natalia
-I am 46 years old./
+I am 46 years old.
 I study in netology
 
 I have two children, we live in Voronezh.
