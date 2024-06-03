@@ -1,6 +1,7 @@
 # Hello world!
 
-My name is Natalia
+My name is Natalia.
+
 I am 46 years old.
 I study in netology
 
